@@ -18,5 +18,5 @@ blastn \
 - query data-file \
 - - database fish \
 ```
-![picture-map](paola2-btea-nb/img/cropped_IM.png)
+![picture-map](../img/cropped_IM.png)
 
